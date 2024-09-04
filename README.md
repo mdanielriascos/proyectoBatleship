@@ -19,8 +19,8 @@ como se juega:
 3. Turnos:
    - Los jugadores se turnan para disparar a una casilla del tablero del oponente.
    - Al seleccionar una casilla, el jugador recibe retroalimentación:
-     - "¡Impacto!" si el disparo acierta a un barco enemigo.
-     - "¡Agua!" si el disparo falla y no golpea ningún barco.
+   - "¡Impacto!" si el disparo acierta a un barco enemigo.
+   - "¡Agua!" si el disparo falla y no golpea ningún barco.
    - Un jugador no puede disparar en la misma casilla más de una vez.
 
 4. Condición de Victoria:
